@@ -1,0 +1,9 @@
+[color]
+	ui = auto
+[user]
+	name = Davis Wang
+	email = davis@daviswang.com
+[alias]
+	st = status
+	amend = commit --amend
+	cv = commit -v
